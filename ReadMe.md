@@ -1,3 +1,7 @@
+# Data Analysis with Python Pandas, Numpy, Matplotlib, and Seaborn
+The premise of this project was to utilize Python Pandas, Numpy, Matplotlib, and Seaborn in a real world situation or scenario.  In this project, I was tasked with creating a Python script (specifically using Pandas and Numpy) in order to analyze a rideshare company's records of rides.  The records include information about active drivers, driver count, cities the drivers are located, city type (rural, urban, suburban), and individual fares.  After making calculations on the records, I created data visual representations in the form a bubble plot and pie charts (with the help of Seaborn and Matplotlib) in order to showcase relationships uncovered during the data analysis/calculation process.
+
+
 
 # Pyber Share Riding
 
